@@ -1,0 +1,126 @@
+.navbar {
+    width: 100%;
+    background-color: rgb(44,62,80);
+    padding: 30px;
+}
+.navbar_logo_link {
+    font-size: 30px;
+    font-weight: 700;
+}
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+.navbar_link {
+    display: flex;
+    font-size: 20px;
+    font-weight: 700;
+}
+.nav-link {
+    margin: 0 10px;
+}
+.section1 {
+    background-color: rgb(26,188,156);
+    padding-bottom: 5%;
+    text-align: center;
+}
+.container1 {
+    display: flex;
+    margin: 0 35%;
+    flex-direction: column;
+}
+
+.avatar {
+    width: 250px ;
+    margin: 5%;
+    
+}
+.start_bootstrap {
+    color: white;
+    font-size: 4rem;
+    line-height: 3.5rem;
+}
+.iconlar {
+    display: flex;
+}
+.xett {
+    width: 250px;
+    height: 3px;
+    background-color: white;
+}
+.ulduz {
+    margin: 5%;
+    width: 20%;
+}
+.yazilar1 {
+    font-weight:400;
+    font-size: 1.5rem;
+    color: white;
+}
+.section2 {
+    display: flex;
+    margin: 0 35%;
+    flex-direction: column;
+}
+.PORTFOLIO {
+    color:rgb(44,62,80) ;
+}
+.xet {
+    width: 250px;
+    height: 3px;
+    background-color: white;
+}
+.ulduz1 {
+    margin: 5%;
+    width: 20%;
+}
+.sira {
+    justify-content: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1);
+    margin-left: calc(-0.5);
+    margin-right: calc(-0.5);
+}
+.portfolio-item{
+    cursor: pointer;
+    position: relative;
+    display: block;
+    border-radius: 1rem;
+    overflow: hidden;
+    align-items:center;
+    justify-content: center;
+    width: 20;
+
+    
+}
+.section3 {
+    background-color: rgb(26,188,156);
+    padding-bottom: 5%;
+    text-align: center;}
+.container3 {
+    display: flex;
+    margin: 0 35%;
+    flex-direction: column;
+}
+.ms-auto {
+    margin-left: auto;
+}
+.lead {
+    color: white;
+    box-sizing: border-box;
+    display: flex;
+}
+.section4 {
+    display: flex;
+    margin: 0 35%;
+    flex-direction: column;
+
+
+}
+.CONTACT_ME {
+    color: white;
+    font-size: 4rem;
+    line-height: 3.5rem;
+}
